@@ -48,3 +48,11 @@ cam.release()
 cv2.destroyAllWindows() 
 
 ```
+
+Done! 
+
+just run the code:
+
+```
+python frame.py
+```
