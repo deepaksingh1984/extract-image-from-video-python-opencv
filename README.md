@@ -1,5 +1,4 @@
-# extract-image-from-video-python-opencv
-Extract Image from m4 video using opencv python
+# Extract Image from m4 video using opencv python
 
 Install openCV
 ```
@@ -49,7 +48,7 @@ cv2.destroyAllWindows()
 
 ```
 
-Done! 
+# Done! 
 
 just run the code:
 
